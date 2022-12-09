@@ -1,0 +1,28 @@
+.altavista Figure {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.altavista>div {
+    background-color: rgb(255, 204, 102);
+    padding: 0.1em 0 0.5em 1em;
+    border-top: 0.2em outset blue;
+    border-bottom: 0.2em outset black;
+}
+
+.altavista table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #666;
+    border-bottom: 4px solid #666;
+}
+
+.altavista td {
+    border: 1px solid #666;
+}
+
+.altavista td:nth-child(1) {
+    background-color: #ccc;
+}

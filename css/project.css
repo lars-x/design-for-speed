@@ -1,0 +1,21 @@
+.project label {
+    display: inline-block;
+    width: 125px;
+}
+
+.project input {
+    display: inline-block;
+    width: 150px;
+}
+
+.project table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 2px solid #666;
+}
+
+.project th,
+td {
+    border: 1px solid #666;
+    text-align: left;
+}
